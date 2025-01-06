@@ -18,7 +18,7 @@
 	last_bill_payment varchar(10));*/
 	
 /*insert into Customer values
-		(1,'ABHISHEK KACHHADIYA','MEMNAGAR',8849253814,111,'Single Phase','July 2023','01/07/2023',230,400,'YES'),
+		(1,'ABHISHEK KACHHADIYA','MEMNAGAR',8845698814,111,'Single Phase','July 2023','01/07/2023',230,400,'YES'),
 		(2,'KESHAV PATEL','SCIENCE CITY',8956267845,112,'Single Phase','July 2023','01/07/2023',500,950,'YES'),
 		(3,'PUJA SHAH','BOPAL',9965865231,123,'Single Phase','July 2023','01/07/2023',405,852,'NO'),
 		(4,'MUKESH DOSHI','PALDI',8956234578,126,'Three Phase','July 2023','02/07/2023',601,1000,'YES'),
