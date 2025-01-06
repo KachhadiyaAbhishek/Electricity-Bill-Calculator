@@ -144,7 +144,7 @@ SELECT * FROM Electric_bill;
 ### Sample `Customer` Table
 | customer_id | customer_Name | address       | contact_no | meter_no | supply_type  | billing_month | reading_date | previous_reading | current_reading | last_bill_payment |
 |-------------|---------------|---------------|------------|----------|--------------|---------------|--------------|------------------|-----------------|-------------------|
-| 1           | Abhishek K.   | Memnagar      | 8849253814 | 111      | Single Phase | July 2023     | 01/07/2023   | 230              | 400             | YES               |
+| 1           | Abhishek K.   | Memnagar      | 8845698814 | 111      | Single Phase | July 2023     | 01/07/2023   | 230              | 400             | YES               |
 
 ### Sample `Electric_bill` Table
 | meter_no | customer_id | units | Energy_charges | Fixed_charges | Govt_duty | Total_Amount |
